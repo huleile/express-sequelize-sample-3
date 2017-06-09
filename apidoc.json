@@ -1,0 +1,7 @@
+{
+    "name": "SequelizeTest",
+    "title": "My Test API Doc",
+    "url": "http://127.0.0.1:3001",
+    "version": "0.0.0",
+    "description": "SequelizeTest service"
+}

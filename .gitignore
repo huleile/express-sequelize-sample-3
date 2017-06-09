@@ -1,0 +1,13 @@
+try/node_modules
+node_modules
+logs
+scripts/main.js
+
+npm-debug.log
+.vscode
+
+.DS_Store
+public/.DS_Store
+routes/.DS_Store
+models/.DS_Store
+*/.DS_Store
